@@ -17,7 +17,7 @@ Add the following to `pom.xml`:
         <repository>
             <id>github-rich-repo</id>
             <name>The Rich Repository on Github</name>
-            <url>https://michaelliao.github.io/how-to-become-rich/maven-repo/</url>
+            <url>https://github.com/geyaowei/how-to-become-rich/maven-repo/</url>
         </repository>
     </repositories>
 
